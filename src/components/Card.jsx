@@ -19,7 +19,7 @@ const Main = () => {
           Fun facts about React
         </h1>
 
-        <ul className="list-disc flex flex-col gap-4 p-10 marker:text-cyan-400  text-white text-2xl z-10 capitalize">
+        <ul className="list-disc flex flex-col gap-4 p-10 marker:text-cyan-400 marker:text-2xl text-white text-2xl z-10 capitalize">
           <li>Was first released in 2013</li>
           <li>Was originally created by Jordan Walke</li>
           <li>Has well over 100k stars on Github</li>
